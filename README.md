@@ -1,6 +1,6 @@
 # Introduction to crypto currency and decentralised world
 
-- I am not an expert in crypto currency trading, but decentralised world or WEB 3 has definite caught my attention, so I will be sharing my knowledge in this repository.
+- I am not an expert in crypto currency trading, but decentralised world or WEB 3 has definitely caught my attention, so I will be sharing my knowledge in this repository.
 
 ### File structure
 Here I will explain how to study from this repo

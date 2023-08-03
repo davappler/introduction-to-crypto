@@ -8,6 +8,9 @@
 - Market Stability: In times of market stress or sudden price movements, market makers help stabilize the market by absorbing excess supply or demand, which helps prevent extreme price swings.
 - Regulatory Requirements: In many financial markets, certain regulations require the presence of market makers to ensure orderly trading and fair pricing.
 
+NOTE: 
+- The spreads differ on a market’s liquidity. Thus, market makers will less likely to provide liquidity to low-volume markets because of the risks and lack of demand for the asset.
+- Also, market makers will receive significantly reduced trading fees or no trading fees altogether. This is the second-way market makers like Wintermute make money.
 
 ```
 Notes in my own words
@@ -54,7 +57,7 @@ Liquidity is the ease with which you can either convert your crypto or cash it o
 - Bit coin is a highly liquid asset, we can easily buy and sell bitcoin with minimal impact on its price
 - Spread is the amount seller is selling and buyer is willing to pay
 - More assets available in the pool, the more liquid it is
-- 
+
 
 Slippage
 - The concept of spread is also related to another common occurrence in Volatile or illiquid markets is slippage.
@@ -65,3 +68,44 @@ Slippage
 - With high liquid market slippage does not happen often.
 
 ```
+
+## What is HFT (High Frequency Trading)
+
+- Computers/algorithms trade nowadays instead of humans.
+- Algorithms are much faster than the the humans, and HFT means trade as much and as quickly as possible.
+- HFT are only make a little proportion of the market but are responsible for the 2/3 of the market's behaviour.
+- Profit on each transaction is very small, but the number of transactions are super high, so it adds up to billions due to mass and velocity.
+- A market has a high level of liquidity with HFT's
+- HFT is super fast, fast enough to beat classic trading machines and humans.
+- Not everyone can afford a HFT 
+- Quote stuffing is done by the HFT to slow down the speed of other machines/traders by offering un-necessary offers and divert their attention or focus from important offers.
+- Another manipulation technique is called spoofing
+- A trading program will generate a number of overpriced purchase offers, since the HFT are super fast, they will cancel the purchase offer before anyone purchases them and generate a fake demand at high price. These are phantom offers create an illusion that number of dealers are interested in buying the offers
+ and the prices for these good will soon rise significantly. Other dealers react to this illusion and making sure that the price does rise.
+- The Spoofer now uses previously acquired options bought at un-manipulated price to make significant profit.
+- Their behaviour can be unpredicatble sometimes and they can cause market to crash within a couple of minutes.
+
+- Slow machines are at an disadvantage when there are quote stuffing and spoofing.
+- Parliament said that we should not do this a lot.
+- Market can become fair with minimum number number of offer cancellations or Introducing minimum holding period for offers.
+- European parliament has proposed 500 milli seconds as the minimum retention period, this way market is more fair and less powerful algorithms are less in damage. HFT's will not be able to retain their fake offers for too long. But was unsuccesfful in this initiative
+- 
+
+## What is Algo trading
+- Trading is done using computer code
+- There are no emotions
+- Increased activity
+- Saving time on analysis
+- Quicker execution
+
+
+
+NOTE: The core difference between HFT and algo trading is that algorithmic trading is designed for the long-term, while high-frequency trading (HFT) allows one to buy and sell at a very fast rate. The use of these methods became very common since they beat the human capacity making it a far superior option.
+
+## OTC trading (Over the counter)
+- The trade takes place between two parties directly rather than through a formal exchange, such as through a NYC stock exchange.
+- Less buyers available, or seller needs to reduce the selling price to sell something (Which is frustating for the seller)
+- Prices are not publicaly disclosed
+
+
+
